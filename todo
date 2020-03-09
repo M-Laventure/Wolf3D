@@ -1,0 +1,27 @@
+textures -> differents blocs avec textures differentes (ex: 1 = pierre, 2 = bois, 3= pierre + deco etc...)
+
+minimap
+
+armes (qui tirent avec click gauche mais ne font pas de degats) avec changement d'armes sur 1,2,3,4 etc
+
+sprites d'ennemis dans la map
+ex: 01110
+    010{mob_1}10
+    01110
+		
+Saut, crouch
+
+Compteur de FPS
+
+Musiques et sons
+
+Mouvement de caméra pour simuler les deplacements
+
+objets récuperables
+ex: 01110
+    010{chest}10
+    01110
+
+Portes
+
+HUD avec score, items récup etc
